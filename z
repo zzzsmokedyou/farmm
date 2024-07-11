@@ -1820,7 +1820,7 @@ L_8_:NewButton(
     "Autofarm",
     "Autofarm.",
     function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/zzzsmokedyou/zzzfa/main/r"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/zzzsmokedyou/farmzzz/main/sb"))()
 end
 )
 
