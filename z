@@ -964,7 +964,7 @@ end
 local L_7_ = L_4_:NewTab("Credits")
 local L_8_ = L_7_:NewSection("Zzz's Hub")
 L_8_:NewButton(
-    "https://discord.gg/NCWNReZX7y",
+    "@zzzsmokedyou on discord",
     "@zzzsmokedyou.",
     function()
 
