@@ -1823,7 +1823,15 @@ L_8_:NewButton(
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/zzzsmokedyou/farmzzz/main/sb"))()
 end
 )
-
+local L_7_ = L_4_:NewTab("Anti Afk")
+local L_8_ = L_7_:NewSection("Zzz's Hub")
+L_8_:NewButton(
+    "Anti Afk",
+    "Anti Afk.",
+    function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/zzzsmokedyou/antiafk/main/zzz"))()
+end
+)
 local L_7_ = L_4_:NewTab("Inf Yield")
 local L_8_ = L_7_:NewSection("Zzz's Hub")
 L_8_:NewButton(
